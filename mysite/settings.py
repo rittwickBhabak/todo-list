@@ -6,7 +6,7 @@ SECRET_KEY = 'django-insecure-q2#9d)86a$_*_h)3qy_y7*)3j)*rjm9p748k+8)v586v@#cv*h
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['rittwickdailytodos.pythonanywhere.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['todolistrittwick.pythonanywhere.com', 'localhost', '127.0.0.1']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -84,7 +84,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Asia/kolkata'
+TIME_ZONE = 'Asia/Kolkata'
 
 USE_I18N = True
 
